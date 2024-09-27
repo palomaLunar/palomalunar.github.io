@@ -1,0 +1,36 @@
+h1 {
+    color: green;
+}
+h1+p {
+    font-size: 20px;
+    color: #c96969;
+
+}
+.lista li {
+    color: yellow;
+    list-style-type: none;
+
+}
+p {
+    color: chocolate;
+}
+a:link {
+    text-decoration: none;
+    color: yellow;
+}
+/* li, .especial {
+    color: blue;
+    font-weight: bold;
+}
+li {
+    color: red;
+}
+li
+,em {
+    color:orange;
+} */
+/* p,
+ em {
+    color: red;
+    font-weight: 100;
+} */
